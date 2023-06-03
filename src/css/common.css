@@ -16,3 +16,17 @@ img {
   display: block;
   max-width: 100%;
 }
+.timer {
+  display: flex;
+  gap: 10px;
+  text-align: center;
+}
+.value {
+  font-size: 32;
+  color: rgb(215, 5, 5);
+}
+.label {
+  display: block;
+  font-size: 12;
+  line-height: 0;
+}
